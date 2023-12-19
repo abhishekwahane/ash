@@ -1,1 +1,1 @@
-# ASH - Ambedkar Student Housing
+# Ambedkar Student Housing
